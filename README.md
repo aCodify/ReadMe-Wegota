@@ -79,7 +79,7 @@ Available commands:
 
 ผลที่ได้
 
-![](Screen Shot 2016-04-06 at 15.08.40.png)
+![](http://abstractcodify.com/download/2.png)
 
 แค่นีเราก็สามารถ run website ได้แล้ว
 
@@ -95,7 +95,7 @@ Available commands:
 
 `php vendor/bin/phinx create <ตามด้วยชื่อของ migration>`
 
-![](Screen Shot 2016-04-06 at 15.30.56.png)
+![](http://abstractcodify.com/download/3.png)
 
 เมื่อ run คำสั้งเสร็จจะแสดงดังรูปด้านบน โดย ที่อยู่ที่เก็บไฟล์ migrations ของ database จะเก็บไว้ที่ db/migrations/...  .php 
 
